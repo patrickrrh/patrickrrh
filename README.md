@@ -1,5 +1,5 @@
-# Hi!👋🏻, My name is Patrick, I'm a Mobile Developer Enthusiast:
-🔥 I’m currently learning React Native, Node.js (Express.js), and Go<br>🧑🏻‍🎓I'm currently studying at BINUS University - Software Engineering
+# Hi!👋🏻, My name is Patrick, I'm a Full-Stack Developer:
+🔥 I’m currently learning React, React Native, Go, and Node.js (Express.js).<br>🧑🏻‍🎓I'm currently studying at BINUS University - Software Engineering
 
 
 ## Let's Connect 🚀:
